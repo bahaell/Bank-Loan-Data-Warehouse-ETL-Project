@@ -27,7 +27,7 @@ Windows OS: For SSMS and SSIS compatibility.
 Installation
 
 Clone the Repository:
-git clone https://github.com/your-username/bank-loan-dw.git
+git clone https://github.com/bahaell/Bank-Loan-Data-Warehouse-ETL-Project
 cd bank-loan-dw
 
 
