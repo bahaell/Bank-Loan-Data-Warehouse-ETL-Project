@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SSIS\\BankLoanETL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{458EF450-6A14-D3FD-0B81-CAE5B48DCD92}|BankLoanETL\\BankLoanETL.dtproj|D:\\SSIS\\BankLoanETL\\BankLoanETL\\Load_FactLoan.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{458EF450-6A14-D3FD-0B81-CAE5B48DCD92}|BankLoanETL\\BankLoanETL.dtproj|solutionrelative:BankLoanETL\\Load_FactLoan.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458EF450-6A14-D3FD-0B81-CAE5B48DCD92}|BankLoanETL\\BankLoanETL.dtproj|D:\\SSIS\\BankLoanETL\\BankLoanETL\\Load_Dims.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{458EF450-6A14-D3FD-0B81-CAE5B48DCD92}|BankLoanETL\\BankLoanETL.dtproj|solutionrelative:BankLoanETL\\Load_Dims.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458EF450-6A14-D3FD-0B81-CAE5B48DCD92}|BankLoanETL\\BankLoanETL.dtproj|D:\\SSIS\\BankLoanETL\\BankLoanETL\\Load_DimLocation.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{458EF450-6A14-D3FD-0B81-CAE5B48DCD92}|BankLoanETL\\BankLoanETL.dtproj|solutionrelative:BankLoanETL\\Load_DimLocation.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458EF450-6A14-D3FD-0B81-CAE5B48DCD92}|BankLoanETL\\BankLoanETL.dtproj|D:\\SSIS\\BankLoanETL\\BankLoanETL\\Load_DimDate.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{458EF450-6A14-D3FD-0B81-CAE5B48DCD92}|BankLoanETL\\BankLoanETL.dtproj|solutionrelative:BankLoanETL\\Load_DimDate.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458EF450-6A14-D3FD-0B81-CAE5B48DCD92}|BankLoanETL\\BankLoanETL.dtproj|D:\\SSIS\\BankLoanETL\\BankLoanETL\\Staging_Location.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{458EF450-6A14-D3FD-0B81-CAE5B48DCD92}|BankLoanETL\\BankLoanETL.dtproj|solutionrelative:BankLoanETL\\Staging_Location.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458EF450-6A14-D3FD-0B81-CAE5B48DCD92}|BankLoanETL\\BankLoanETL.dtproj|D:\\SSIS\\BankLoanETL\\BankLoanETL\\Staging_factload.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{458EF450-6A14-D3FD-0B81-CAE5B48DCD92}|BankLoanETL\\BankLoanETL.dtproj|solutionrelative:BankLoanETL\\Staging_factload.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458EF450-6A14-D3FD-0B81-CAE5B48DCD92}|BankLoanETL\\BankLoanETL.dtproj|D:\\SSIS\\BankLoanETL\\BankLoanETL\\Staging_date.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{458EF450-6A14-D3FD-0B81-CAE5B48DCD92}|BankLoanETL\\BankLoanETL.dtproj|solutionrelative:BankLoanETL\\Staging_date.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458EF450-6A14-D3FD-0B81-CAE5B48DCD92}|BankLoanETL\\BankLoanETL.dtproj|D:\\SSIS\\BankLoanETL\\BankLoanETL\\Staging_Borrower.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{458EF450-6A14-D3FD-0B81-CAE5B48DCD92}|BankLoanETL\\BankLoanETL.dtproj|solutionrelative:BankLoanETL\\Staging_Borrower.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458EF450-6A14-D3FD-0B81-CAE5B48DCD92}|BankLoanETL\\BankLoanETL.dtproj|D:\\SSIS\\BankLoanETL\\BankLoanETL\\ETL_BankLoan.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{458EF450-6A14-D3FD-0B81-CAE5B48DCD92}|BankLoanETL\\BankLoanETL.dtproj|solutionrelative:BankLoanETL\\ETL_BankLoan.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 225,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Load_Dims.dtsx [Conception]",
+              "DocumentMoniker": "D:\\SSIS\\BankLoanETL\\BankLoanETL\\Load_Dims.dtsx",
+              "RelativeDocumentMoniker": "BankLoanETL\\Load_Dims.dtsx",
+              "ToolTip": "D:\\SSIS\\BankLoanETL\\BankLoanETL\\Load_Dims.dtsx [Conception]",
+              "RelativeToolTip": "BankLoanETL\\Load_Dims.dtsx [Conception]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMxSURBVDhPjVRLTBNRFD3TH62lQEG0BaoRJfJRoxEV48KoiTEaFsrKBS5MXLhzZdzqRqM7ExZujQt36sLEqDHRuPBDooYipSjV0tLyael0ZtrpTDvPO9OxpXzEk9y89\u002B6bd\u002Bbcz3scCLfuPfjY2dVzSJ//C6IkI7mw\u002BOLr6IeRp4/uPzfdVTDGbOYUPZ1tCLS1mKu18f7zJMYmJgckFdyFS9fw6tnDtwKfFs1tgOM4qz6eOD145cC\u002B3vYOXws2OevWtUhsHmpJc9a73c1zKb69dYsvnRezaUngcwYhwWKO/w2r1QqNseb5xfRJr69z2FXf1GVuGaghlJUS5jOFiklyEQW16hNlDT8iMXwLhuCpdztis4kLgijtMo8bqORQR2hGwJMPSXMFnNrfitYGBx6/ixtrgS\u002BAVOHcjgBUtYiXb94a/uWoUagxUqlZkGtsg9TUDtXpKftKQK7BB9bRjd6DB3H8cB/sdrteA/NkFatzyDRwBQmcTFZUTB8jXx42tQCP04Gmxoayfw3UEDa67ejrcGOPt4i9XhWtTg0elw19gXrsaS6ir1GF11FCnhSvh5oc7vS7DVuJ4RMBUOSQVWpusmgyXd5YA//dNjqZQEZ1Qa5I7WN3kHeDHP5MSHj4ZqZiY7\u002BzKGlAngh0ZdkCQ4ZMVDhSTGQbFYWnOzUekxBcsmOMLJmzGhUWqDa8QVZWKCkMrER/oWKtxOqQOQtYnQvM6YbC2UjNX2XAkgyksgrSvEztZYen2Q9/595eb2D/SWza3q8fryG0UAROiwZXJgHXUhwlUayQZYgsk2eIz2XxayaDnL0NvQNnMXj55vX\u002Bobuvse3iiM5RU\u002BXugAdXW1x03ShnFJFGbwcJMsLUR8oIVMppx2YXho75sUh/ic9JSEZTJsMyhaHpWbwf/Y6x72FMTIYxPRXG1MQEpsaDmA0HkZkOQo6NQ8vOGd9bKH/5nIrUUh6CZF4AgqFQUYr4EgxjIbV\u002Bf/2FrWkb6rbvRjQhYirKI/SbRzJVeb3KhJHIj/HFrMyi0Zjh/Be2dh31K5wvwKQ8IgkBv4g4vlAlXN1IG8F35gbaz982V1VIkU8I3TnyByuphR8gq7UuAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-14T15:44:25.407Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Load_FactLoan.dtsx [Conception]",
+              "DocumentMoniker": "D:\\SSIS\\BankLoanETL\\BankLoanETL\\Load_FactLoan.dtsx",
+              "RelativeDocumentMoniker": "BankLoanETL\\Load_FactLoan.dtsx",
+              "ToolTip": "D:\\SSIS\\BankLoanETL\\BankLoanETL\\Load_FactLoan.dtsx [Conception]",
+              "RelativeToolTip": "BankLoanETL\\Load_FactLoan.dtsx [Conception]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMxSURBVDhPjVRLTBNRFD3TH62lQEG0BaoRJfJRoxEV48KoiTEaFsrKBS5MXLhzZdzqRqM7ExZujQt36sLEqDHRuPBDooYipSjV0tLyael0ZtrpTDvPO9OxpXzEk9y89\u002B6bd\u002Bbcz3scCLfuPfjY2dVzSJ//C6IkI7mw\u002BOLr6IeRp4/uPzfdVTDGbOYUPZ1tCLS1mKu18f7zJMYmJgckFdyFS9fw6tnDtwKfFs1tgOM4qz6eOD145cC\u002B3vYOXws2OevWtUhsHmpJc9a73c1zKb69dYsvnRezaUngcwYhwWKO/w2r1QqNseb5xfRJr69z2FXf1GVuGaghlJUS5jOFiklyEQW16hNlDT8iMXwLhuCpdztis4kLgijtMo8bqORQR2hGwJMPSXMFnNrfitYGBx6/ixtrgS\u002BAVOHcjgBUtYiXb94a/uWoUagxUqlZkGtsg9TUDtXpKftKQK7BB9bRjd6DB3H8cB/sdrteA/NkFatzyDRwBQmcTFZUTB8jXx42tQCP04Gmxoayfw3UEDa67ejrcGOPt4i9XhWtTg0elw19gXrsaS6ir1GF11FCnhSvh5oc7vS7DVuJ4RMBUOSQVWpusmgyXd5YA//dNjqZQEZ1Qa5I7WN3kHeDHP5MSHj4ZqZiY7\u002BzKGlAngh0ZdkCQ4ZMVDhSTGQbFYWnOzUekxBcsmOMLJmzGhUWqDa8QVZWKCkMrER/oWKtxOqQOQtYnQvM6YbC2UjNX2XAkgyksgrSvEztZYen2Q9/595eb2D/SWza3q8fryG0UAROiwZXJgHXUhwlUayQZYgsk2eIz2XxayaDnL0NvQNnMXj55vX\u002Bobuvse3iiM5RU\u002BXugAdXW1x03ShnFJFGbwcJMsLUR8oIVMppx2YXho75sUh/ic9JSEZTJsMyhaHpWbwf/Y6x72FMTIYxPRXG1MQEpsaDmA0HkZkOQo6NQ8vOGd9bKH/5nIrUUh6CZF4AgqFQUYr4EgxjIbV\u002Bf/2FrWkb6rbvRjQhYirKI/SbRzJVeb3KhJHIj/HFrMyi0Zjh/Be2dh31K5wvwKQ8IgkBv4g4vlAlXN1IG8F35gbaz982V1VIkU8I3TnyByuphR8gq7UuAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-14T14:52:44.291Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Load_DimLocation.dtsx [Conception]",
+              "DocumentMoniker": "D:\\SSIS\\BankLoanETL\\BankLoanETL\\Load_DimLocation.dtsx",
+              "RelativeDocumentMoniker": "BankLoanETL\\Load_DimLocation.dtsx",
+              "ToolTip": "D:\\SSIS\\BankLoanETL\\BankLoanETL\\Load_DimLocation.dtsx [Conception]",
+              "RelativeToolTip": "BankLoanETL\\Load_DimLocation.dtsx [Conception]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMxSURBVDhPjVRLTBNRFD3TH62lQEG0BaoRJfJRoxEV48KoiTEaFsrKBS5MXLhzZdzqRqM7ExZujQt36sLEqDHRuPBDooYipSjV0tLyael0ZtrpTDvPO9OxpXzEk9y89\u002B6bd\u002Bbcz3scCLfuPfjY2dVzSJ//C6IkI7mw\u002BOLr6IeRp4/uPzfdVTDGbOYUPZ1tCLS1mKu18f7zJMYmJgckFdyFS9fw6tnDtwKfFs1tgOM4qz6eOD145cC\u002B3vYOXws2OevWtUhsHmpJc9a73c1zKb69dYsvnRezaUngcwYhwWKO/w2r1QqNseb5xfRJr69z2FXf1GVuGaghlJUS5jOFiklyEQW16hNlDT8iMXwLhuCpdztis4kLgijtMo8bqORQR2hGwJMPSXMFnNrfitYGBx6/ixtrgS\u002BAVOHcjgBUtYiXb94a/uWoUagxUqlZkGtsg9TUDtXpKftKQK7BB9bRjd6DB3H8cB/sdrteA/NkFatzyDRwBQmcTFZUTB8jXx42tQCP04Gmxoayfw3UEDa67ejrcGOPt4i9XhWtTg0elw19gXrsaS6ir1GF11FCnhSvh5oc7vS7DVuJ4RMBUOSQVWpusmgyXd5YA//dNjqZQEZ1Qa5I7WN3kHeDHP5MSHj4ZqZiY7\u002BzKGlAngh0ZdkCQ4ZMVDhSTGQbFYWnOzUekxBcsmOMLJmzGhUWqDa8QVZWKCkMrER/oWKtxOqQOQtYnQvM6YbC2UjNX2XAkgyksgrSvEztZYen2Q9/595eb2D/SWza3q8fryG0UAROiwZXJgHXUhwlUayQZYgsk2eIz2XxayaDnL0NvQNnMXj55vX\u002Bobuvse3iiM5RU\u002BXugAdXW1x03ShnFJFGbwcJMsLUR8oIVMppx2YXho75sUh/ic9JSEZTJsMyhaHpWbwf/Y6x72FMTIYxPRXG1MQEpsaDmA0HkZkOQo6NQ8vOGd9bKH/5nIrUUh6CZF4AgqFQUYr4EgxjIbV\u002Bf/2FrWkb6rbvRjQhYirKI/SbRzJVeb3KhJHIj/HFrMyi0Zjh/Be2dh31K5wvwKQ8IgkBv4g4vlAlXN1IG8F35gbaz982V1VIkU8I3TnyByuphR8gq7UuAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-14T16:09:57.286Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Load_DimDate.dtsx [Conception]",
+              "DocumentMoniker": "D:\\SSIS\\BankLoanETL\\BankLoanETL\\Load_DimDate.dtsx",
+              "RelativeDocumentMoniker": "BankLoanETL\\Load_DimDate.dtsx",
+              "ToolTip": "D:\\SSIS\\BankLoanETL\\BankLoanETL\\Load_DimDate.dtsx [Conception]",
+              "RelativeToolTip": "BankLoanETL\\Load_DimDate.dtsx [Conception]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMxSURBVDhPjVRLTBNRFD3TH62lQEG0BaoRJfJRoxEV48KoiTEaFsrKBS5MXLhzZdzqRqM7ExZujQt36sLEqDHRuPBDooYipSjV0tLyael0ZtrpTDvPO9OxpXzEk9y89\u002B6bd\u002Bbcz3scCLfuPfjY2dVzSJ//C6IkI7mw\u002BOLr6IeRp4/uPzfdVTDGbOYUPZ1tCLS1mKu18f7zJMYmJgckFdyFS9fw6tnDtwKfFs1tgOM4qz6eOD145cC\u002B3vYOXws2OevWtUhsHmpJc9a73c1zKb69dYsvnRezaUngcwYhwWKO/w2r1QqNseb5xfRJr69z2FXf1GVuGaghlJUS5jOFiklyEQW16hNlDT8iMXwLhuCpdztis4kLgijtMo8bqORQR2hGwJMPSXMFnNrfitYGBx6/ixtrgS\u002BAVOHcjgBUtYiXb94a/uWoUagxUqlZkGtsg9TUDtXpKftKQK7BB9bRjd6DB3H8cB/sdrteA/NkFatzyDRwBQmcTFZUTB8jXx42tQCP04Gmxoayfw3UEDa67ejrcGOPt4i9XhWtTg0elw19gXrsaS6ir1GF11FCnhSvh5oc7vS7DVuJ4RMBUOSQVWpusmgyXd5YA//dNjqZQEZ1Qa5I7WN3kHeDHP5MSHj4ZqZiY7\u002BzKGlAngh0ZdkCQ4ZMVDhSTGQbFYWnOzUekxBcsmOMLJmzGhUWqDa8QVZWKCkMrER/oWKtxOqQOQtYnQvM6YbC2UjNX2XAkgyksgrSvEztZYen2Q9/595eb2D/SWza3q8fryG0UAROiwZXJgHXUhwlUayQZYgsk2eIz2XxayaDnL0NvQNnMXj55vX\u002Bobuvse3iiM5RU\u002BXugAdXW1x03ShnFJFGbwcJMsLUR8oIVMppx2YXho75sUh/ic9JSEZTJsMyhaHpWbwf/Y6x72FMTIYxPRXG1MQEpsaDmA0HkZkOQo6NQ8vOGd9bKH/5nIrUUh6CZF4AgqFQUYr4EgxjIbV\u002Bf/2FrWkb6rbvRjQhYirKI/SbRzJVeb3KhJHIj/HFrMyi0Zjh/Be2dh31K5wvwKQ8IgkBv4g4vlAlXN1IG8F35gbaz982V1VIkU8I3TnyByuphR8gq7UuAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-14T00:21:01.715Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Staging_Location.dtsx [Conception]",
+              "DocumentMoniker": "D:\\SSIS\\BankLoanETL\\BankLoanETL\\Staging_Location.dtsx",
+              "RelativeDocumentMoniker": "BankLoanETL\\Staging_Location.dtsx",
+              "ToolTip": "D:\\SSIS\\BankLoanETL\\BankLoanETL\\Staging_Location.dtsx [Conception]",
+              "RelativeToolTip": "BankLoanETL\\Staging_Location.dtsx [Conception]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMxSURBVDhPjVRLTBNRFD3TH62lQEG0BaoRJfJRoxEV48KoiTEaFsrKBS5MXLhzZdzqRqM7ExZujQt36sLEqDHRuPBDooYipSjV0tLyael0ZtrpTDvPO9OxpXzEk9y89\u002B6bd\u002Bbcz3scCLfuPfjY2dVzSJ//C6IkI7mw\u002BOLr6IeRp4/uPzfdVTDGbOYUPZ1tCLS1mKu18f7zJMYmJgckFdyFS9fw6tnDtwKfFs1tgOM4qz6eOD145cC\u002B3vYOXws2OevWtUhsHmpJc9a73c1zKb69dYsvnRezaUngcwYhwWKO/w2r1QqNseb5xfRJr69z2FXf1GVuGaghlJUS5jOFiklyEQW16hNlDT8iMXwLhuCpdztis4kLgijtMo8bqORQR2hGwJMPSXMFnNrfitYGBx6/ixtrgS\u002BAVOHcjgBUtYiXb94a/uWoUagxUqlZkGtsg9TUDtXpKftKQK7BB9bRjd6DB3H8cB/sdrteA/NkFatzyDRwBQmcTFZUTB8jXx42tQCP04Gmxoayfw3UEDa67ejrcGOPt4i9XhWtTg0elw19gXrsaS6ir1GF11FCnhSvh5oc7vS7DVuJ4RMBUOSQVWpusmgyXd5YA//dNjqZQEZ1Qa5I7WN3kHeDHP5MSHj4ZqZiY7\u002BzKGlAngh0ZdkCQ4ZMVDhSTGQbFYWnOzUekxBcsmOMLJmzGhUWqDa8QVZWKCkMrER/oWKtxOqQOQtYnQvM6YbC2UjNX2XAkgyksgrSvEztZYen2Q9/595eb2D/SWza3q8fryG0UAROiwZXJgHXUhwlUayQZYgsk2eIz2XxayaDnL0NvQNnMXj55vX\u002Bobuvse3iiM5RU\u002BXugAdXW1x03ShnFJFGbwcJMsLUR8oIVMppx2YXho75sUh/ic9JSEZTJsMyhaHpWbwf/Y6x72FMTIYxPRXG1MQEpsaDmA0HkZkOQo6NQ8vOGd9bKH/5nIrUUh6CZF4AgqFQUYr4EgxjIbV\u002Bf/2FrWkb6rbvRjQhYirKI/SbRzJVeb3KhJHIj/HFrMyi0Zjh/Be2dh31K5wvwKQ8IgkBv4g4vlAlXN1IG8F35gbaz982V1VIkU8I3TnyByuphR8gq7UuAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-13T22:44:52.842Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Staging_factload.dtsx [Conception]",
+              "DocumentMoniker": "D:\\SSIS\\BankLoanETL\\BankLoanETL\\Staging_factload.dtsx",
+              "RelativeDocumentMoniker": "BankLoanETL\\Staging_factload.dtsx",
+              "ToolTip": "D:\\SSIS\\BankLoanETL\\BankLoanETL\\Staging_factload.dtsx [Conception]",
+              "RelativeToolTip": "BankLoanETL\\Staging_factload.dtsx [Conception]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMxSURBVDhPjVRLTBNRFD3TH62lQEG0BaoRJfJRoxEV48KoiTEaFsrKBS5MXLhzZdzqRqM7ExZujQt36sLEqDHRuPBDooYipSjV0tLyael0ZtrpTDvPO9OxpXzEk9y89\u002B6bd\u002Bbcz3scCLfuPfjY2dVzSJ//C6IkI7mw\u002BOLr6IeRp4/uPzfdVTDGbOYUPZ1tCLS1mKu18f7zJMYmJgckFdyFS9fw6tnDtwKfFs1tgOM4qz6eOD145cC\u002B3vYOXws2OevWtUhsHmpJc9a73c1zKb69dYsvnRezaUngcwYhwWKO/w2r1QqNseb5xfRJr69z2FXf1GVuGaghlJUS5jOFiklyEQW16hNlDT8iMXwLhuCpdztis4kLgijtMo8bqORQR2hGwJMPSXMFnNrfitYGBx6/ixtrgS\u002BAVOHcjgBUtYiXb94a/uWoUagxUqlZkGtsg9TUDtXpKftKQK7BB9bRjd6DB3H8cB/sdrteA/NkFatzyDRwBQmcTFZUTB8jXx42tQCP04Gmxoayfw3UEDa67ejrcGOPt4i9XhWtTg0elw19gXrsaS6ir1GF11FCnhSvh5oc7vS7DVuJ4RMBUOSQVWpusmgyXd5YA//dNjqZQEZ1Qa5I7WN3kHeDHP5MSHj4ZqZiY7\u002BzKGlAngh0ZdkCQ4ZMVDhSTGQbFYWnOzUekxBcsmOMLJmzGhUWqDa8QVZWKCkMrER/oWKtxOqQOQtYnQvM6YbC2UjNX2XAkgyksgrSvEztZYen2Q9/595eb2D/SWza3q8fryG0UAROiwZXJgHXUhwlUayQZYgsk2eIz2XxayaDnL0NvQNnMXj55vX\u002Bobuvse3iiM5RU\u002BXugAdXW1x03ShnFJFGbwcJMsLUR8oIVMppx2YXho75sUh/ic9JSEZTJsMyhaHpWbwf/Y6x72FMTIYxPRXG1MQEpsaDmA0HkZkOQo6NQ8vOGd9bKH/5nIrUUh6CZF4AgqFQUYr4EgxjIbV\u002Bf/2FrWkb6rbvRjQhYirKI/SbRzJVeb3KhJHIj/HFrMyi0Zjh/Be2dh31K5wvwKQ8IgkBv4g4vlAlXN1IG8F35gbaz982V1VIkU8I3TnyByuphR8gq7UuAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-13T23:00:57.613Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Staging_date.dtsx [Conception]",
+              "DocumentMoniker": "D:\\SSIS\\BankLoanETL\\BankLoanETL\\Staging_date.dtsx",
+              "RelativeDocumentMoniker": "BankLoanETL\\Staging_date.dtsx",
+              "ToolTip": "D:\\SSIS\\BankLoanETL\\BankLoanETL\\Staging_date.dtsx [Conception]",
+              "RelativeToolTip": "BankLoanETL\\Staging_date.dtsx [Conception]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMxSURBVDhPjVRLTBNRFD3TH62lQEG0BaoRJfJRoxEV48KoiTEaFsrKBS5MXLhzZdzqRqM7ExZujQt36sLEqDHRuPBDooYipSjV0tLyael0ZtrpTDvPO9OxpXzEk9y89\u002B6bd\u002Bbcz3scCLfuPfjY2dVzSJ//C6IkI7mw\u002BOLr6IeRp4/uPzfdVTDGbOYUPZ1tCLS1mKu18f7zJMYmJgckFdyFS9fw6tnDtwKfFs1tgOM4qz6eOD145cC\u002B3vYOXws2OevWtUhsHmpJc9a73c1zKb69dYsvnRezaUngcwYhwWKO/w2r1QqNseb5xfRJr69z2FXf1GVuGaghlJUS5jOFiklyEQW16hNlDT8iMXwLhuCpdztis4kLgijtMo8bqORQR2hGwJMPSXMFnNrfitYGBx6/ixtrgS\u002BAVOHcjgBUtYiXb94a/uWoUagxUqlZkGtsg9TUDtXpKftKQK7BB9bRjd6DB3H8cB/sdrteA/NkFatzyDRwBQmcTFZUTB8jXx42tQCP04Gmxoayfw3UEDa67ejrcGOPt4i9XhWtTg0elw19gXrsaS6ir1GF11FCnhSvh5oc7vS7DVuJ4RMBUOSQVWpusmgyXd5YA//dNjqZQEZ1Qa5I7WN3kHeDHP5MSHj4ZqZiY7\u002BzKGlAngh0ZdkCQ4ZMVDhSTGQbFYWnOzUekxBcsmOMLJmzGhUWqDa8QVZWKCkMrER/oWKtxOqQOQtYnQvM6YbC2UjNX2XAkgyksgrSvEztZYen2Q9/595eb2D/SWza3q8fryG0UAROiwZXJgHXUhwlUayQZYgsk2eIz2XxayaDnL0NvQNnMXj55vX\u002Bobuvse3iiM5RU\u002BXugAdXW1x03ShnFJFGbwcJMsLUR8oIVMppx2YXho75sUh/ic9JSEZTJsMyhaHpWbwf/Y6x72FMTIYxPRXG1MQEpsaDmA0HkZkOQo6NQ8vOGd9bKH/5nIrUUh6CZF4AgqFQUYr4EgxjIbV\u002Bf/2FrWkb6rbvRjQhYirKI/SbRzJVeb3KhJHIj/HFrMyi0Zjh/Be2dh31K5wvwKQ8IgkBv4g4vlAlXN1IG8F35gbaz982V1VIkU8I3TnyByuphR8gq7UuAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-13T22:27:07.963Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Staging_Borrower.dtsx [Conception]",
+              "DocumentMoniker": "D:\\SSIS\\BankLoanETL\\BankLoanETL\\Staging_Borrower.dtsx",
+              "RelativeDocumentMoniker": "BankLoanETL\\Staging_Borrower.dtsx",
+              "ToolTip": "D:\\SSIS\\BankLoanETL\\BankLoanETL\\Staging_Borrower.dtsx [Conception]",
+              "RelativeToolTip": "BankLoanETL\\Staging_Borrower.dtsx [Conception]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMxSURBVDhPjVRLTBNRFD3TH62lQEG0BaoRJfJRoxEV48KoiTEaFsrKBS5MXLhzZdzqRqM7ExZujQt36sLEqDHRuPBDooYipSjV0tLyael0ZtrpTDvPO9OxpXzEk9y89\u002B6bd\u002Bbcz3scCLfuPfjY2dVzSJ//C6IkI7mw\u002BOLr6IeRp4/uPzfdVTDGbOYUPZ1tCLS1mKu18f7zJMYmJgckFdyFS9fw6tnDtwKfFs1tgOM4qz6eOD145cC\u002B3vYOXws2OevWtUhsHmpJc9a73c1zKb69dYsvnRezaUngcwYhwWKO/w2r1QqNseb5xfRJr69z2FXf1GVuGaghlJUS5jOFiklyEQW16hNlDT8iMXwLhuCpdztis4kLgijtMo8bqORQR2hGwJMPSXMFnNrfitYGBx6/ixtrgS\u002BAVOHcjgBUtYiXb94a/uWoUagxUqlZkGtsg9TUDtXpKftKQK7BB9bRjd6DB3H8cB/sdrteA/NkFatzyDRwBQmcTFZUTB8jXx42tQCP04Gmxoayfw3UEDa67ejrcGOPt4i9XhWtTg0elw19gXrsaS6ir1GF11FCnhSvh5oc7vS7DVuJ4RMBUOSQVWpusmgyXd5YA//dNjqZQEZ1Qa5I7WN3kHeDHP5MSHj4ZqZiY7\u002BzKGlAngh0ZdkCQ4ZMVDhSTGQbFYWnOzUekxBcsmOMLJmzGhUWqDa8QVZWKCkMrER/oWKtxOqQOQtYnQvM6YbC2UjNX2XAkgyksgrSvEztZYen2Q9/595eb2D/SWza3q8fryG0UAROiwZXJgHXUhwlUayQZYgsk2eIz2XxayaDnL0NvQNnMXj55vX\u002Bobuvse3iiM5RU\u002BXugAdXW1x03ShnFJFGbwcJMsLUR8oIVMppx2YXho75sUh/ic9JSEZTJsMyhaHpWbwf/Y6x72FMTIYxPRXG1MQEpsaDmA0HkZkOQo6NQ8vOGd9bKH/5nIrUUh6CZF4AgqFQUYr4EgxjIbV\u002Bf/2FrWkb6rbvRjQhYirKI/SbRzJVeb3KhJHIj/HFrMyi0Zjh/Be2dh31K5wvwKQ8IgkBv4g4vlAlXN1IG8F35gbaz982V1VIkU8I3TnyByuphR8gq7UuAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-13T21:57:47.521Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ETL_BankLoan.dtsx [Conception]",
+              "DocumentMoniker": "D:\\SSIS\\BankLoanETL\\BankLoanETL\\ETL_BankLoan.dtsx",
+              "RelativeDocumentMoniker": "BankLoanETL\\ETL_BankLoan.dtsx",
+              "ToolTip": "D:\\SSIS\\BankLoanETL\\BankLoanETL\\ETL_BankLoan.dtsx [Conception]",
+              "RelativeToolTip": "BankLoanETL\\ETL_BankLoan.dtsx [Conception]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMxSURBVDhPjVRLTBNRFD3TH62lQEG0BaoRJfJRoxEV48KoiTEaFsrKBS5MXLhzZdzqRqM7ExZujQt36sLEqDHRuPBDooYipSjV0tLyael0ZtrpTDvPO9OxpXzEk9y89\u002B6bd\u002Bbcz3scCLfuPfjY2dVzSJ//C6IkI7mw\u002BOLr6IeRp4/uPzfdVTDGbOYUPZ1tCLS1mKu18f7zJMYmJgckFdyFS9fw6tnDtwKfFs1tgOM4qz6eOD145cC\u002B3vYOXws2OevWtUhsHmpJc9a73c1zKb69dYsvnRezaUngcwYhwWKO/w2r1QqNseb5xfRJr69z2FXf1GVuGaghlJUS5jOFiklyEQW16hNlDT8iMXwLhuCpdztis4kLgijtMo8bqORQR2hGwJMPSXMFnNrfitYGBx6/ixtrgS\u002BAVOHcjgBUtYiXb94a/uWoUagxUqlZkGtsg9TUDtXpKftKQK7BB9bRjd6DB3H8cB/sdrteA/NkFatzyDRwBQmcTFZUTB8jXx42tQCP04Gmxoayfw3UEDa67ejrcGOPt4i9XhWtTg0elw19gXrsaS6ir1GF11FCnhSvh5oc7vS7DVuJ4RMBUOSQVWpusmgyXd5YA//dNjqZQEZ1Qa5I7WN3kHeDHP5MSHj4ZqZiY7\u002BzKGlAngh0ZdkCQ4ZMVDhSTGQbFYWnOzUekxBcsmOMLJmzGhUWqDa8QVZWKCkMrER/oWKtxOqQOQtYnQvM6YbC2UjNX2XAkgyksgrSvEztZYen2Q9/595eb2D/SWza3q8fryG0UAROiwZXJgHXUhwlUayQZYgsk2eIz2XxayaDnL0NvQNnMXj55vX\u002Bobuvse3iiM5RU\u002BXugAdXW1x03ShnFJFGbwcJMsLUR8oIVMppx2YXho75sUh/ic9JSEZTJsMyhaHpWbwf/Y6x72FMTIYxPRXG1MQEpsaDmA0HkZkOQo6NQ8vOGd9bKH/5nIrUUh6CZF4AgqFQUYr4EgxjIbV\u002Bf/2FrWkb6rbvRjQhYirKI/SbRzJVeb3KhJHIj/HFrMyi0Zjh/Be2dh31K5wvwKQ8IgkBv4g4vlAlXN1IG8F35gbaz982V1VIkU8I3TnyByuphR8gq7UuAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-13T20:49:26.017Z",
+              "EditorCaption": " [Conception]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
